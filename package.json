@@ -11,7 +11,7 @@
   "license": "MIT",
   "dependencies": {
     "cors": "^2.8.5",
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "express-useragent": "^1.0.15",
     "mongoose": "^5.12.3",
     "nanopay": "^2.1.1",
